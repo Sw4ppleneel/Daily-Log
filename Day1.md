@@ -104,4 +104,4 @@ Group by city;
 
 Select variables and group by should be same.
 
-More on day 2.
+More on day 2
