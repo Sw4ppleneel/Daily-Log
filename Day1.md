@@ -103,3 +103,5 @@ From student
 Group by city;
 
 Select variables and group by should be same.
+
+More on day 2
