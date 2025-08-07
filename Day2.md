@@ -91,4 +91,4 @@ On a.id = b.manager.id ;
 Union
 Select col from A
 Union
-Select col from B
+Select col from B.
