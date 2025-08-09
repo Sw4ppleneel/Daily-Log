@@ -1,6 +1,6 @@
 Day 3 : 
 
-Subqueries :
+# Subqueries :
 
 Nested query :
 
@@ -11,7 +11,7 @@ Where marks operator (subquery);
 Select max(mks)
 From ( select * from student  where city = "delhi”);
 
-SQL view :
+# SQL view :
 
 Virtual table based on a table.
 
