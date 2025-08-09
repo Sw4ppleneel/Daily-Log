@@ -19,3 +19,7 @@ Create view as VIEW1
 Select roll no , name from {base table}
 
 Select * from view1; 
+
+Droppig view 
+
+Drop view view1;
