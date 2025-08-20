@@ -1,0 +1,1 @@
+Finished the IBM ai introduction course. It was a good overview of AI concepts and applications.
